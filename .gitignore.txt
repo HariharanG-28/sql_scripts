@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# SSMS / Visual Studio
+.vs/
+*.user
+*.suo
+
+# Backups / dumps / artifacts
+*.bak
+*.trn
+*.log
+*.dacpac
+*.bacpac
+
+# Local env
+.env
